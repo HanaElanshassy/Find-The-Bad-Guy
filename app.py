@@ -581,7 +581,7 @@ def main():
             st.dataframe(pd.DataFrame([img['attributes'] for img in st.session_state.current_matches]))
     
     elif 'total_matches' in st.session_state and st.session_state.total_matches == 0:
-        st.warning("**⚠️ No neural matches found**")
+        st.warning("**⚠️ No matches found**")
         st.markdown("Try adjusting your search parameters")
 
 if __name__ == "__main__":
