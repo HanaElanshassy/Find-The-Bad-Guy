@@ -1,4 +1,4 @@
-Find The Bad Guy - Facial Attribute Search System
+Find The Bad Guy - Facial Attribute Search System.                                                                                       
 📌 Overview
 Find The Bad Guy is an AI-powered facial attribute search system designed to help users identify individuals based on specific facial characteristics. The application allows users to search through a database of labeled facial images by selecting attributes like eye color, hair color, face shape, and more. The system also includes advanced image enhancement tools to help analyze selected images.
 
@@ -72,6 +72,6 @@ Matplotlib (for visualization)
 Data Requirements
 CSV files with labeled facial attributes
 
-Directory containing corresponding facial images
-Notes:
+Directory containing corresponding facial images                                                                                                                           
+Note:
 this project is under development we are still working on improving the models that labels the dataset using machine learning and image processing
